@@ -1,0 +1,8 @@
+indivisual project: notepost maker using django
+https://github.com/SadnanTunning/notepost_maker
+
+
+group project: CTF Judge using Django
+https://github.com/asadcop/CTF-Judge
+
+

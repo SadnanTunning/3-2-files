@@ -1,0 +1,5 @@
+Direct method : https://matrix.reshish.com/gauss-jordanElimination.php
+
+Newton's divided difference method : https://atozmath.com/CONM/NumeInterPola.aspx?q=DD&q1=1%6010%2c15%2c20%60227.04%2c362.78%2c517.35%23%6016%60DD%601&dp=4&do=1#PrevPart
+
+Lagrange Method : https://atozmath.com/CONM/NumeInterPola.aspx?q=LI&q1=1%6036%2c65.75%2c95.5%601004.597%2c1902.249%2c2799.901%23%6053%60LI%601&dp=4&do=1#PrevPart

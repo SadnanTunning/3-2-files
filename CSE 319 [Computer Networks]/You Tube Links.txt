@@ -1,0 +1,195 @@
+Basics of subnetting
+https://www.youtube.com/watch?v=HoDZ6fxttmg&list=PLMW5djzR9cKPDaY5f30lC4VgqL9nRQG6g&index=3
+Subnetting of class C ip example-1 
+
+https://www.youtube.com/watch?v=-9ikVFD313U&list=PLMW5djzR9cKPDaY5f30lC4VgqL9nRQG6g&index=4
+
+https://www.youtube.com/watch?v=KnTrjXiXG5c&list=PLMW5djzR9cKPDaY5f30lC4VgqL9nRQG6g&index=5
+
+Subnetting of class B ip example
+
+https://www.youtube.com/watch?v=48n1DPJApgc&list=PLMW5djzR9cKPDaY5f30lC4VgqL9nRQG6g&index=6
+Subnetting of class B ip example-2
+
+https://www.youtube.com/watch?v=YNBbxpfhCZU&list=PLMW5djzR9cKPDaY5f30lC4VgqL9nRQG6g&index=7
+
+
+
+Subnetting of class A ip
+
+https://www.youtube.com/watch?v=vMCwDt0y-l8&list=PLMW5djzR9cKPDaY5f30lC4VgqL9nRQG6g&index=8
+vlsm subnetting tutorial  using class c ip
+
+https://www.youtube.com/watch?v=QMIM8VrFQf0&list=PLMW5djzR9cKPDaY5f30lC4VgqL9nRQG6g&index=9
+vlsm subnetting  using class B
+
+https://www.youtube.com/watch?v=D_s1kCwSpRE&list=PLMW5djzR9cKPDaY5f30lC4VgqL9nRQG6g&index=10
+vlsm subnetting tutorial  for any ip
+
+https://www.youtube.com/watch?v=UGIrwRGnnzk&list=PLMW5djzR9cKPDaY5f30lC4VgqL9nRQG6g&index=11
+
+
+
+Error detection
+CRC part 1
+ https://www.youtube.com/watch?v=A9g6rTMblz4
+
+CRC part 2
+
+https://www.youtube.com/watch?v=wQGwfBS3gpk
+Hamming Code | Error detection
+
+https://www.youtube.com/watch?v=1A_NcXxdoCc&t=2s
+
+Hamming Code | Error Correction
+
+https://www.youtube.com/watch?v=wbH2VxzmoZk&t=22s
+
+
+Switching techniques:
+https://www.gatevidyalay.com/packet-switching-switching-in-computer-networks/
+
+Difference Between packet and frames:
+https://techdifferences.com/difference-between-frame-and-packet.html
+
+
+after mid:
+Physical Layer and Media (Part 1)
+https://www.youtube.com/watch?v=rKzDbdGhcdY&list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx&index=30
+
+Physical Layer and Media (Part 2)
+
+https://www.youtube.com/watch?v=JP-wJOVAvXc&list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx&index=32
+
+Physical Layer and Media (Part 3)
+
+https://www.youtube.com/watch?v=fEygcbiniHQ&list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx&index=33
+Line Configuration
+
+https://www.youtube.com/watch?v=eGr2wJzFO9s&list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx&index=34
+https://www.geeksforgeeks.org/line-configuration-computer-networks/
+
+Link Layer Services
+
+https://www.youtube.com/watch?v=VBAuzvVzOQU&list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx&index=35
+Sub-layers of the Data Link Layer
+
+https://www.youtube.com/watch?v=N1apF49Ih28&list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx&index=36
+
+Framing (Part 1)
+
+https://www.youtube.com/watch?v=NhpzBldHOYo&list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx&index=37
+
+Framing (Part 2)
+
+https://www.youtube.com/watch?v=ckcRxFxeOs4&list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx&index=38
+
+Framing (Part 3)
+
+https://www.youtube.com/watch?v=8sV_fOzJoqI&list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx&index=39
+
+
+
+
+
+HDLC
+https://www.youtube.com/watch?v=N2tgsPUPEBE&list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx&index=39
+
+Bit Stuffing
+https://www.youtube.com/watch?v=toS0RXNaTaE&list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx&index=40
+
+Bisynch
+https://www.youtube.com/watch?v=EpVkN6YuDUk&list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx&index=41
+https://www.geeksforgeeks.org/frame-format-of-bisync/?ref=rp
+
+PtoP protocol
+https://www.youtube.com/watch?v=kKCwkRT_U8I&list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx&index=42
+
+DDCMP
+https://www.youtube.com/watch?v=whsTT8hnbJA&list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx&index=43
+
+
+
+
+
+
+
+RTT
+https://www.youtube.com/watch?v=nT9F-USjtBg&list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx&index=56
+
+Flow cONTROL
+https://www.youtube.com/watch?v=ReQiSK8W3Ag&list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx&index=57
+
+sTOP AND WAIT
+https://www.youtube.com/watch?v=n09DfvemnTQ&list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx&index=58
+
+Stop-and-Wait ARQ Protocol
+
+https://www.youtube.com/watch?v=YdkksvhkQGQ&list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx&index=59
+
+Sliding Window Protocol
+
+https://www.youtube.com/watch?v=LnbvhoxHn8M&list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx&index=60
+
+Go-Back-N ARQ
+
+https://www.youtube.com/watch?v=QD3oCelHJ20&list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx&index=61
+
+https://www.youtube.com/watch?v=cqPWjo2iLgk&list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx&index=62
+
+https://www.youtube.com/watch?v=PHcIuxvLSzc&list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx&index=63
+
+Selective Repeat ARQ
+
+https://www.youtube.com/watch?v=WfIhQ3o2xow&list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx&index=64
+
+https://www.youtube.com/watch?v=gG0xzEHH0iU&list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx&index=65
+
+https://www.youtube.com/watch?v=D8-jK_gVzb0&list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx&index=66
+
+Sliding Window Protocol (Solved Problem 1)
+
+https://www.youtube.com/watch?v=_amTFCVhXNw&list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx&index=67
+
+Sliding Window Protocol (Solved Problem 2)
+
+https://www.youtube.com/watch?v=CBIsClf9Dpc&list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx&index=68
+
+
+
+
+
+
+
+
+All about Ethernet 
+https://www.youtube.com/watch?v=MzhiVE6OuQA&list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx&index=79
+Ethernet (Solved Questions) - Part 1
+https://www.youtube.com/watch?v=FL_Yn8CxMKY&list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx&index=79
+Ethernet (Solved Questions) - Part 2
+https://www.youtube.com/watch?v=xFliq3EFN6I&list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx&index=81
+Ethernet Transmitter Algorithm
+https://www.youtube.com/watch?v=ZXqXEzioRSs&list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx&index=82
+Experience with Ethernet
+https://www.youtube.com/watch?v=KaEPWr0ftvM&list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx&index=83
+Ethernet (Solved Question 1)
+https://www.youtube.com/watch?v=8i7dyojFOP4&list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx&index=84
+Ethernet (Solved Question 2)
+https://www.youtube.com/watch?v=0--YXSCgaa0&list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx&index=85
+Ethernet (Solved Question 3)
+https://www.youtube.com/watch?v=gtYNSkPbKto&list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx&index=86
+
+
+
+
+	
+Wireless technology:
+https://www.youtube.com/watch?v=t3FVP5wuG4g&list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx&index=86
+https://www.youtube.com/watch?v=kcqpkl_HZSQ&list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx&index=87
+https://www.youtube.com/watch?v=_oz4WTWRfGs&list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx&index=89
+https://www.youtube.com/watch?v=mhuXdaRoLzA&list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx&index=90
+https://www.youtube.com/watch?v=3F4DQINyx3g&list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx&index=91
+
+https://www.youtube.com/watch?v=Sn-vvwNlkck&list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx&index=92
+
+https://www.youtube.com/watch?v=ixY0Cau4mBM&list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx&index=93

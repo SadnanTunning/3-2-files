@@ -1,0 +1,53 @@
+int a=7,b=8;
+void setup(){
+  pinMode(a,OUTPUT);
+  pinMode(b,OUTPUT);
+}
+
+
+void firstLED()    {
+for (int i=500;i>10;i=i-20)
+{
+  digitalWrite(a,HIGH);
+  delay(i);
+  digitalWrite(a,LOW);
+  delay(i);
+}
+
+for (int i=10;i<=500;i=i+20)
+  {
+  delay(i);
+  digitalWrite(a,HIGH);
+  delay(i);
+  digitalWrite(a,LOW);
+
+  }  
+}
+
+
+void secondLED()    {
+for (int i=500;i>10;i=i-20)
+{
+  digitalWrite(b,HIGH);
+  delay(i);
+  digitalWrite(b,LOW);
+  delay(i);
+}
+
+for (int i=10;i<=500;i=i+20)
+  {
+  delay(i);
+  digitalWrite(b,HIGH);
+  delay(i);
+  digitalWrite(b,LOW);
+
+  }  
+}
+
+void loop(){
+  
+  digitalWrite(b,LOW);
+  firstLED();
+  digitalWrite(a,LOW);
+  secondLED();
+}

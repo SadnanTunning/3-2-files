@@ -1,0 +1,12 @@
+Lab Viva Topics and Materials:
+
+    16x2 LCD Display
+    7-Segment Display
+    Servo Motor
+    Keypad
+
+
+
+https://docs.arduino.cc/learn/electronics/servo-motors
+
+https://arduinogetstarted.com/tutorials/arduino-keypad
